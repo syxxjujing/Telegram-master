@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "org.telegram.messenger.web",
+  "variantName": "afatStandalone",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 26009,
+      "versionName": "8.6.2_1",
+      "outputFile": "app.apk"
+    }
+  ],
+  "elementType": "File"
+}
